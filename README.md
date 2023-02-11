@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)]
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)
 <h1 align="center">Dhriti Pandey</h1>
 <h3 align="center">Aesthetic Maniac + Geek</h3>
 
