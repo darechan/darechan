@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darechan" alt="darechan" /></a> </p>
 
-- 📚 I’m currently **2nd Year I.T. Student**
+- 📚 I’m currently **Senior M.I.S Student**
 
 - 🔭 I’m currently working on **Discord Bots**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React, Django, Python, JavaScript or Creating PPT**
 
-- 📫 How to reach me **dhriti_pandey@outlook.com**
+- 📫 How to reach me **pandeyd@rider.edu**
 
 - ⚡ Fun fact **I love penguins**
 
