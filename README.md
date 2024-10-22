@@ -8,15 +8,15 @@
 
 - 📚 I’m currently **Senior M.I.S Student**
 
-- 🔭 I’m currently working on **Discord Bots**
+- 🔭 I’m currently working on **Google Extensions**
 
 - 🌱 I’m currently learning **M.L. and A.I.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💻 I’ve previously worked with **Tata Technologies**
+- 💻 I’ve previously worked with **Rider University's Residence Life as a Resident Assistant**
 
-- 💬 Ask me about **React, Django, Python, JavaScript or Creating PPT**
+- 💬 Ask me about **Development or Creating PPT**
 
 - 📫 How to reach me **pandeyd@rider.edu**
 
