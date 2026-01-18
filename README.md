@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darechan" alt="darechan" /></a> </p>
 
-- 📚 I’m currently **Senior M.I.S Student**
+- 📚 I’m currently **QA Engineer @ Verizon**
 
 - 🔭 I’m currently working on **Google Extensions**
 
@@ -16,7 +16,7 @@
 
 - 💻 I’ve previously worked with **Rider University's Residence Life as a Resident Assistant**
 
-- 💬 Ask me about **Development or Creating PPT**
+- 💬 Ask me about **Development & Design**
 
 - 📫 How to reach me **pandeyd@rider.edu**
 
