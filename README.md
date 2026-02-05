@@ -4,7 +4,7 @@
 
 =
 
-- 📚 I’m currently **QA Engineer @ Verizon**
+- 📚 I’m currently **Applied Data Scientist @ Verizon**
 
 - 🔭 I’m currently working on **Google Extensions**
 
